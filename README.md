@@ -2,9 +2,9 @@
 
 **Frontend Development · Business Analysis · Quality Assurance**
 
-Я работал фронтенд-разработчиком и дополнительно освоил бизнес-анализ и тестирование ПО. Здесь собраны документы об обучении, подтверждённые учебной программой навыки и ссылки на проекты с кодом.
+Мой путь в IT начался с работы тестировщиком ПО. Затем я изучал фронтенд-разработку: хотя обучение не завершил, полученных знаний и практических навыков хватило, чтобы работать фронтенд-разработчиком. Недавно я окончил обучение по направлению «Бизнес-аналитик» и начал работать бизнес-аналитиком. Здесь собраны документы об обучении, освоенные навыки, учебные кейсы и ссылки на проекты с кодом.
 
-> **EN:** I'm a frontend developer with additional professional training in business analysis and software testing. This repository contains publicly shareable copies of my training documents and links to code samples. Registration numbers are redacted for privacy; original documents can be provided for verification upon request.
+> **EN:** I started my career as a software tester and later moved into frontend development. Although I did not complete the frontend training program, the skills I gained enabled me to work professionally as a frontend developer. More recently, I completed a business analysis program and started working as a business analyst. This repository contains my training documents, project work, and code samples. Registration numbers are redacted for privacy; original documents can be provided for verification upon request.
 
 ## 🎓 Дипломы и обучение
 
