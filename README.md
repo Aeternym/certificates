@@ -37,8 +37,6 @@
 
 **Подробный разбор моей аналитической работы:** [Business Analyst Portfolio](https://github.com/Aeternym/business-analyst-portfolio) — учебный кейс «Переделкино», 18 выявленных проблем, BPMN AS-IS / TO-BE, 24 user stories, 9 use cases, UML и критерии приёмки.
 
-Официальная [программа «Бизнес-аналитик»](https://practicum.yandex.ru/business-analyst/) может обновляться после выпуска; точный объём пройденных модулей указан в приложенном дипломе.
-
 ## 🧪 Тестирование ПО — 250 часов
 
 Диплом 2022 года подтверждает следующие завершённые модули:
@@ -68,7 +66,6 @@
 | [**Web Larek**](https://github.com/Aeternym/web-larek-frontend) | SPA-магазин: каталог, корзина, валидация и оформление заказов; архитектура на событиях | TypeScript, SCSS, MVP-style, Webpack |
 
 **[Живой пример Russian Travel](https://aeternym.github.io/russian-travel/)** · [Другие репозитории GitHub](https://github.com/Aeternym?tab=repositories)
-
 
 ## 🔗 Как эти навыки дополняют друг друга
 
