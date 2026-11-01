@@ -35,6 +35,8 @@
 
 Это **учебные кейсы**, указанные в программе и дипломе, а не коммерческие внедрения. Исходные рабочие артефакты здесь не опубликованы.
 
+**Подробный разбор моей аналитической работы:** [Business Analyst Portfolio](https://github.com/Aeternym/business-analyst-portfolio) — учебный кейс «Переделкино», 18 выявленных проблем, BPMN AS-IS / TO-BE, 24 user stories, 9 use cases, UML и критерии приёмки.
+
 Официальная [программа «Бизнес-аналитик»](https://practicum.yandex.ru/business-analyst/) может обновляться после выпуска; точный объём пройденных модулей указан в приложенном дипломе.
 
 ## 🧪 Тестирование ПО — 250 часов
@@ -63,11 +65,10 @@
 | [**How to Learn**](https://github.com/Aeternym/how-to-learn) | Многосекционный лендинг, анимации, встраивание видео, структура БЭМ | HTML5, CSS3, Flexbox, BEM Nested |
 | [**Russian Travel**](https://github.com/Aeternym/russian-travel) | Адаптивный сайт с сетками фотографий и медиазапросами | HTML5, CSS Grid, Flexbox, Media Queries |
 | [**Mesto**](https://github.com/Aeternym/mesto-project-ff) | Интерактивная галерея, карточки, профиль, лайки, формы и REST API | JavaScript, Fetch API, Webpack, Babel |
-| [**Web Larek**](https://github.com/Aeternym/web-larek-frontend) 🔒 | SPA-магазин: каталог, корзина, валидация и оформление заказов; архитектура на событиях | TypeScript, SCSS, MVP-style, Webpack |
+| [**Web Larek**](https://github.com/Aeternym/web-larek-frontend) | SPA-магазин: каталог, корзина, валидация и оформление заказов; архитектура на событиях | TypeScript, SCSS, MVP-style, Webpack |
 
 **[Живой пример Russian Travel](https://aeternym.github.io/russian-travel/)** · [Другие репозитории GitHub](https://github.com/Aeternym?tab=repositories)
 
-> **Примечание:** Web Larek сейчас находится в приватном репозитории. Ссылка доступна только людям, которым предоставлен доступ.
 
 ## 🔗 Как эти навыки дополняют друг друга
 
